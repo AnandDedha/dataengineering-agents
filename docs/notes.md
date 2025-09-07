@@ -1,2 +1,2 @@
-#Rough Notes
+# Rough Notes
 While agentic coding tools have transformed how quickly developers generate code, Qodo recognized a growing crisis in software development. Teams can now create features at unprecedented speed, but the flood of AI-generated code doesn’t always receive proper review or testing before being deployed, creating a dangerous paradox. The very tools meant to accelerate code generation have the potential to introduce quality risks that could cost enterprises millions if not properly reviewed.
